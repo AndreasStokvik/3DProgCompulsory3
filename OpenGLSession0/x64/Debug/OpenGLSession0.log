@@ -1,0 +1,41 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OpenGLSession0.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Camera.cpp
+  Construct.cpp
+  LSM.cpp
+C:\Users\andre\Documents\GitHub\3DProgCompulsory3\OpenGLSession0\LSM.cpp(14,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\Documents\GitHub\3DProgCompulsory3\OpenGLSession0\LSM.cpp(76,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+C:\Users\andre\Documents\GitHub\3DProgCompulsory3\OpenGLSession0\main.cpp(157,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\andre\Documents\GitHub\3DProgCompulsory3\OpenGLSession0\main.cpp(209,57): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\andre\Documents\GitHub\3DProgCompulsory3\OpenGLSession0\main.cpp(218,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\andre\Documents\GitHub\3DProgCompulsory3\OpenGLSession0\main.cpp(227,52): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\andre\Documents\GitHub\3DProgCompulsory3\OpenGLSession0\main.cpp(236,55): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Player.cpp
+C:\Users\andre\Documents\GitHub\3DProgCompulsory3\OpenGLSession0\Player.cpp(188,25): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+C:\Users\andre\Documents\GitHub\3DProgCompulsory3\OpenGLSession0\Player.cpp(188,25): warning C4244:         with
+C:\Users\andre\Documents\GitHub\3DProgCompulsory3\OpenGLSession0\Player.cpp(188,25): warning C4244:         [
+C:\Users\andre\Documents\GitHub\3DProgCompulsory3\OpenGLSession0\Player.cpp(188,25): warning C4244:             T=float
+C:\Users\andre\Documents\GitHub\3DProgCompulsory3\OpenGLSession0\Player.cpp(188,25): warning C4244:         ]
+C:\Users\andre\Documents\GitHub\3DProgCompulsory3\OpenGLSession0\Player.cpp(190,36): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+C:\Users\andre\Documents\GitHub\3DProgCompulsory3\OpenGLSession0\Player.cpp(190,36): warning C4244:         with
+C:\Users\andre\Documents\GitHub\3DProgCompulsory3\OpenGLSession0\Player.cpp(190,36): warning C4244:         [
+C:\Users\andre\Documents\GitHub\3DProgCompulsory3\OpenGLSession0\Player.cpp(190,36): warning C4244:             T=float
+C:\Users\andre\Documents\GitHub\3DProgCompulsory3\OpenGLSession0\Player.cpp(190,36): warning C4244:         ]
+C:\Users\andre\Documents\GitHub\3DProgCompulsory3\OpenGLSession0\Player.cpp(191,23): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+C:\Users\andre\Documents\GitHub\3DProgCompulsory3\OpenGLSession0\Player.cpp(191,23): warning C4244:         with
+C:\Users\andre\Documents\GitHub\3DProgCompulsory3\OpenGLSession0\Player.cpp(191,23): warning C4244:         [
+C:\Users\andre\Documents\GitHub\3DProgCompulsory3\OpenGLSession0\Player.cpp(191,23): warning C4244:             T=float
+C:\Users\andre\Documents\GitHub\3DProgCompulsory3\OpenGLSession0\Player.cpp(191,23): warning C4244:         ]
+  Pokal.cpp
+  EBO.cpp
+  shaderClass.cpp
+  VAO.cpp
+C:\Users\andre\Documents\GitHub\3DProgCompulsory3\OpenGLSession0\Resources\Shaders\VAO.cpp(13,63): warning C4244: 'argument': conversion from 'GLsizeiptr' to 'GLsizei', possible loss of data
+  VBO.cpp
+  SphereCollition.cpp
+  stb.cpp
+  Table.cpp
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLSession0.vcxproj -> C:\Users\andre\Documents\GitHub\3DProgCompulsory3\x64\Debug\Compulsory2Math.exe
